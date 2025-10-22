@@ -1,0 +1,1 @@
+purpoe of a public folder is for static files that dont change -- images, icons, or logos
